@@ -1,4 +1,5 @@
 # Code Repository to Show PR Review LLM system
 
 
-<img width="1880" height="1045" alt="image" src="https://github.com/user-attachments/assets/e8b7f801-80be-43d0-9f3e-1c5ad1c31d70" />
+<img width="1159" height="723" alt="image" src="https://github.com/user-attachments/assets/0d95414c-9760-4f64-a596-ee4e0a2cb27d" />
+
